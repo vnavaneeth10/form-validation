@@ -1,10 +1,9 @@
-// import logo from './logo.svg';
-
+import Signup from './components/signup/Signup';
 
 function App() {
   return (
-    
-)
+    <Signup/>
+  );
 }
 
 export default App;
